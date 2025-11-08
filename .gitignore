@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+node_modules/
+.DS_Store
+# no ignores the csvs: we will add them via LFS
