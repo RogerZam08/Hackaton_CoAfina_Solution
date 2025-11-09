@@ -102,7 +102,7 @@ Se adjunta el link a la pagina web donde se encuentra el mapa, el chatbot e info
 
 ## 🎥 Video de Youtube
 
-Video explicativo del proyecto: https://www.youtube.com/watch?v=N3M52l5a74k
+Video explicativo del proyecto: https://www.youtube.com/watch?v=aAJs-2ydQNg
 
 ---
 
