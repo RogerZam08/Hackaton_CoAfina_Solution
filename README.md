@@ -95,5 +95,5 @@ Promover la **conciencia ambiental** y el **acceso a información comprensible**
 
 ##  Licencia
 
-Este proyecto está bajo la licencia **Attribution-ShareAlike 4.0 International**.
+Este proyecto está bajo la licencia **Creative Commons license Attribution-ShareAlike 4.0 International**.
 
