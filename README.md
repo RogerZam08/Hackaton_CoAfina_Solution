@@ -13,7 +13,7 @@ El objetivo es facilitar la comprensión de la calidad del aire y las condicione
 
 ## Componentes principales
 
-### Mapa ambiental interactivo
+### 🗺️ Mapa ambiental interactivo
 El mapa muestra un promedio global en una línea de tiempo sobre variables como:
 
 - **PM2.5** (material particulado fino)
