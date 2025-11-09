@@ -4,16 +4,16 @@ Este repositorio contiene la solución desarrollada por el grupo **TerraBytes** 
 
 ---
 
-## 🧩 Descripción general del proyecto
+## Descripción general del proyecto
 
 Nuestra solución consiste en una **plataforma web interactiva** que combina visualización de datos ambientales y asistencia conversacional.  
 El objetivo es facilitar la comprensión del estado del aire y las condiciones meteorológicas en diferentes zonas, de una forma **intuitiva, accesible y educativa**.
 
 ---
 
-## 🌐 Componentes principales
+## Componentes principales
 
-### 🗺️ Mapa ambiental interactivo
+### Mapa ambiental interactivo
 El mapa muestra un promedio global en una línea de tiempo sobre variables como:
 
 - **PM2.5** (material particulado fino)
@@ -44,7 +44,7 @@ El sistema utiliza una **escala visual e intuitiva** para representar la calidad
 
 ---
 
-#### 🪟 Ventana flotante de detalle
+#### Ventana flotante de detalle
 
 Cada estación cuenta con una **ventana flotante interactiva** que se despliega al seleccionar una estacion.  
 En esta ventana se muestran las **variables más relevantes**, ordenadas por prioridad:
@@ -80,7 +80,7 @@ Los datos utilizados provienen de la **Red Ambiental RACiMo - Orquídeas**, disp
 Estos datos incluyen registros de calidad del aire y variables meteorológicas captadas por sensores de la red ambiental.
 
 
-## 🧠 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Promover la **conciencia ambiental** y el **acceso a información comprensible** sobre la calidad del aire, a través de herramientas tecnológicas que integren datos, visualización e interacción natural.
 
@@ -93,7 +93,7 @@ Promover la **conciencia ambiental** y el **acceso a información comprensible**
 
 ---
 
-## ⚖️ Licencia
+##  Licencia
 
 Este proyecto está bajo la licencia **Attribution-ShareAlike 4.0 International**.
 
