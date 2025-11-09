@@ -111,3 +111,5 @@ Video explicativo del proyecto:
 Este proyecto está bajo la licencia **Attribution-ShareAlike 4.0 International**.
 
 Visualización de datos ambientales asociados a la Red Ambiental Ciudadana de Monitoreo (RACiMo). © 2025 by Isamar Chacón. Roger Zambrano. Andres Bueno. Rubi Lucano is licensed under CC BY-SA 4.0
+
+El codigo esta licenciado bajo la licencia MIT
