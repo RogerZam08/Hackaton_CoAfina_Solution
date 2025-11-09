@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-# mapa_generator.py
-# Versión corregida y completa: generate_map_compact_final_restructured v4 (todo en un archivo)
-# - Corrige SyntaxError por JS fuera del template
-# - Leyenda PM2.5: 0-10 Excelente, 10-13 Bueno, 13-35 Regular, 35-55 Malo, >55 Peligroso
-# - Animaciones incluidas en la plantilla HTML/JS
-# - Gráficas suavizadas (tension, pointRadius=0)
-# - Añade 3 o 4 variables extra en detalles segun disponibilidad
-# - No destruye la lógica original de procesamiento de datos
 
 import pandas as pd
 import json
@@ -21,7 +13,7 @@ if not os.path.exists(CSV):
     print(f"ERROR: no se encuentra el CSV '{CSV}' en el directorio actual.", file=sys.stderr)
     sys.exit(1)
 
-print("📥 Leyendo CSV (puede tardar unos segundos)...")
+print(" Leyendo CSV (puede tardar unos segundos)...")
 df = pd.read_csv(CSV, low_memory=False)
 
 # columnas mínimas
