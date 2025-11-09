@@ -6,8 +6,8 @@ Este repositorio contiene la solución desarrollada por el grupo **TerraBytes** 
 
 ## Descripción general del proyecto
 
-Nuestra solución consiste en una **plataforma web interactiva** que combina visualización de datos ambientales y asistencia conversacional.  
-El objetivo es facilitar la comprensión del estado del aire y las condiciones meteorológicas en diferentes zonas, de una forma **intuitiva, accesible y educativa**.
+Nuestra solución consiste en una **plataforma web interactiva** que combina visualización de datos ambientales y un asistente virtual (chatbot).  
+El objetivo es facilitar la comprensión de la calidad del aire y las condiciones meteorológicas en diferentes zonas, de una forma **intuitiva, accesible y educativa**.
 
 ---
 
@@ -60,14 +60,15 @@ Adicionalmente:
 
 
 
-### 🤖 Chatbot ambiental
+### 🤖 Chatbot "Eco"
 
-El **chatbot integrado** actúa como un asistente educativo que ayuda a los usuarios a entender:
+El **chatbot integrado Eco** actúa como un asistente educativo que ayuda a los usuarios a entender:
 - Qué representa cada variable.
 - Cómo se interpreta la calidad del aire.
-- Qué recomendaciones seguir según los niveles de contaminación.
+- Cómo navegar por el mapa interactivo.
+- Conceptos basicos sobre temperatura, calidad del aire, humedad y precipitación.
 
-Este componente busca **fomentar la alfabetización ambiental**, guiando al usuario con un lenguaje claro y cercano.
+Esta herramienta busca **fomentar la educación ambiental**, guiando al usuario con un lenguaje claro y cercano.
 
 ---
 
@@ -82,7 +83,7 @@ Estos datos incluyen registros de calidad del aire y variables meteorológicas c
 
 ##  Objetivo del proyecto
 
-Promover la **conciencia ambiental** y el **acceso a información comprensible** sobre la calidad del aire, a través de herramientas tecnológicas que integren datos, visualización e interacción natural.
+Desarrollar una herramienta de visualización de datos meteorológicos y calidad del aire utilizando el registro de datos de la Red Ambiental Ciudadana de Monitoreo (RACiMo).
 
 > “Comprender el aire que respiramos es el primer paso para mejorar nuestra calidad de vida.”
 
@@ -93,7 +94,20 @@ Promover la **conciencia ambiental** y el **acceso a información comprensible**
 
 ---
 
+##  Pagina Web
+
+Se adjunta el link a la pagina web donde se encuentra el mapa, el chatbot e información adicional sobre el proyecto: https://sites.google.com/view/visualizacindedatosambientales?usp=sharing 
+
+---
+
+##  Video de Youtube
+
+Video explicativo del proyecto: 
+
+---
+
 ##  Licencia
 
-Este proyecto está bajo la licencia **Creative Commons license Attribution-ShareAlike 4.0 International**.
+Este proyecto está bajo la licencia **Attribution-ShareAlike 4.0 International**.
 
+Visualización de datos ambientales asociados a la Red Ambiental Ciudadana de Monitoreo (RACiMo). © 2025 by Isamar Chacón. Roger Zambrano. Andres Bueno. Rubi Lucano is licensed under CC BY-SA 4.0
