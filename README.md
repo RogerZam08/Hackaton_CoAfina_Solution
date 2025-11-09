@@ -44,7 +44,7 @@ El sistema utiliza una **escala visual e intuitiva** para representar la calidad
 
 ---
 
-#### Ventana flotante de detalle
+#### 🌫️ Ventana flotante de detalle
 
 Cada estación cuenta con una **ventana flotante interactiva** que se despliega al seleccionar una estacion.  
 En esta ventana se muestran las **variables más relevantes**, ordenadas por prioridad:
@@ -94,13 +94,13 @@ Desarrollar una herramienta de visualización de datos meteorológicos y calidad
 
 ---
 
-##  Pagina Web
+## 🌐 Pagina Web
 
 Se adjunta el link a la pagina web donde se encuentra el mapa, el chatbot e información adicional sobre el proyecto: https://sites.google.com/view/visualizacindedatosambientales?usp=sharing 
 
 ---
 
-##  Video de Youtube
+## 🎥 Video de Youtube
 
 Video explicativo del proyecto: 
 
